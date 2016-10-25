@@ -2,7 +2,7 @@
 // @name         Copyer
 // @namespace    http://tampermonkey.net/
 // @homepage     https://github.com/maoger/Copyer
-// @version      1.1.0
+// @version      1.1.1
 // @description  恢复被网站禁用的复制粘贴功能。
 // @author       maoger
 // @match        http://gsxt.zjaic.gov.cn/*
@@ -10,6 +10,7 @@
 // ==/UserScript==
 
 // changelog:
+// version 1.1 revise the 'match' option
 // version 1.0 initial release
 
 //免责声明：本代码仅供技术交流，请勿用于商业及非法用途，如产生法律纠纷与本人无关。
