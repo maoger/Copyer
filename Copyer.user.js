@@ -5,7 +5,7 @@
 // @version      1.1.0
 // @description  恢复被网站禁用的复制粘贴功能。
 // @author       maoger
-// @match        http://gsxt.zjaic.gov.cn//*
+// @match        http://gsxt.zjaic.gov.cn/*
 // @updateURL https://openuserjs.org/meta/maoger/Copyer.meta.js
 // ==/UserScript==
 
