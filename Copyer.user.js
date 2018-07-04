@@ -2,7 +2,7 @@
 // @name         Copyer
 // @namespace    http://tampermonkey.net/
 // @homepage     https://github.com/maoger/Copyer
-// @version      1.2
+// @version      1.2.1
 // @description  恢复被网站禁用的复制粘贴功能。
 // @author       maoger
 // @include      http*://*
