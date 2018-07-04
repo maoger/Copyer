@@ -7,6 +7,7 @@
 // @author       maoger
 // @include      http*://*
 // @updateURL    https://openuserjs.org/meta/maoger/Copyer.meta.js
+// @license      MIT
 // ==/UserScript==
 
 (function() {
